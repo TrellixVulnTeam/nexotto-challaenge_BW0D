@@ -1,0 +1,1 @@
+export const FetchLoginData = (data) => { return { type: "FetchLoginData", payload: data } }
